@@ -28,3 +28,9 @@ Backlogを利用して、自分の研修課題・期限・進捗を管理する�
 
 毎日の学習開始時にBacklogを確認し、
 学習終了後に実施内容・理解したこと・課題を記録する。
+
+## 参考リンク・資料
+
+- [Git 公式ドキュメント](https://git-scm.com/doc)
+- [GitHub Docs](https://docs.github.com/ja)
+- [Markdown記法チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
